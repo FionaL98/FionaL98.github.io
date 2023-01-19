@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.816a13b2.css",
-    "main.js": "/static/js/main.65640f90.js",
+    "main.css": "/static/css/main.585df494.css",
+    "main.js": "/static/js/main.31757f46.js",
     "static/media/lauren-sauder-unsplash.jpg": "/static/media/lauren-sauder-unsplash.d8d196414583a37c384b.jpg",
     "static/media/MEE.PNG": "/static/media/MEE.bd71d5782a46503b47d9.PNG",
     "static/media/natasha-t-unsplash.jpg": "/static/media/natasha-t-unsplash.3dc6168d27cea460f95a.jpg",
@@ -9,11 +9,11 @@
     "static/media/FIONALIDUONG.pdf": "/static/media/FIONALIDUONG.8e41338b9f1da7a74e21.pdf",
     "static/media/girl.png": "/static/media/girl.c2e32c6a248446c0c2c4.png",
     "index.html": "/index.html",
-    "main.816a13b2.css.map": "/static/css/main.816a13b2.css.map",
-    "main.65640f90.js.map": "/static/js/main.65640f90.js.map"
+    "main.585df494.css.map": "/static/css/main.585df494.css.map",
+    "main.31757f46.js.map": "/static/js/main.31757f46.js.map"
   },
   "entrypoints": [
-    "static/css/main.816a13b2.css",
-    "static/js/main.65640f90.js"
+    "static/css/main.585df494.css",
+    "static/js/main.31757f46.js"
   ]
 }
