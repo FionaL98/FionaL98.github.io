@@ -13,7 +13,7 @@ const data = [
     image: GroceryProject,
     img_alt: "natasha-t-unsplash.jpg",
     title: "E-Commerce Grocery Shop",
-    githubt: "https://github.com",
+    github: "https://github.com",
     demo: "https://github.com"
   },
   {
@@ -21,7 +21,7 @@ const data = [
     image: MatrixProject,
     img_alt: "marcella-marcella-unsplash.jpg",
     title: "Matrix Math Game",
-    githubt: "https://github.com",
+    github: "https://github.com",
     demo: "https://github.com"
   },
   {
@@ -29,7 +29,7 @@ const data = [
     image: TaskProject,
     img_alt: "lauren-sauder-unsplash.jpg",
     title: "Tasks App",
-    githubt: "https://github.com",
+    github: "https://github.com/FionaL98/ToDoApp",
     demo: "https://github.com"
   },
 ]
