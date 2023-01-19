@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.816a13b2.css",
-    "main.js": "/static/js/main.e37e0050.js",
+    "main.js": "/static/js/main.65640f90.js",
     "static/media/lauren-sauder-unsplash.jpg": "/static/media/lauren-sauder-unsplash.d8d196414583a37c384b.jpg",
     "static/media/MEE.PNG": "/static/media/MEE.bd71d5782a46503b47d9.PNG",
     "static/media/natasha-t-unsplash.jpg": "/static/media/natasha-t-unsplash.3dc6168d27cea460f95a.jpg",
@@ -10,10 +10,10 @@
     "static/media/girl.png": "/static/media/girl.c2e32c6a248446c0c2c4.png",
     "index.html": "/index.html",
     "main.816a13b2.css.map": "/static/css/main.816a13b2.css.map",
-    "main.e37e0050.js.map": "/static/js/main.e37e0050.js.map"
+    "main.65640f90.js.map": "/static/js/main.65640f90.js.map"
   },
   "entrypoints": [
     "static/css/main.816a13b2.css",
-    "static/js/main.e37e0050.js"
+    "static/js/main.65640f90.js"
   ]
 }
