@@ -43,8 +43,13 @@ footer a {
 }
 
 .footer_copyright {
-    margin-bottom: 5rem;
+    /* margin-bottom: 5rem; */
     color: var(--color-bg);
+}
+
+.footer_message {
+    font-size: 12px;
+    margin-bottom: 5rem;
 }
 
 /* 

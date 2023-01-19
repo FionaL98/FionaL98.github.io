@@ -10,9 +10,7 @@ const Footer = () => {
   return (
     <footer>
       <ul className="links">
-        <p>
-          Project images are from Unsplash with the image alt attributing to the individual authors.
-        </p>
+  
         <li><a href="#">Home</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#experience">Experience</a></li>
@@ -28,6 +26,9 @@ const Footer = () => {
       <div className="footer_copyright">
         <small>&copy; FIONA LI-DUONG. All rights reserved.</small>
       </div>
+      <p className="footer_message">
+          Project images are from Unsplash with the image alt attributing to the individual authors.
+      </p>
     </footer>
   )
 }
